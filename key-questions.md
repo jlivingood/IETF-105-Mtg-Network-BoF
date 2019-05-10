@@ -11,7 +11,7 @@ Responsible AD: Alissa Cooper
 
 BoF proponents: Jason Livingood <Jason_Livingood@comcast.com>, Russ Housley <housley@vigilsec.com>
 
-BoF chairs: Russ Housley <housley@vigilsec.com> 
+BoF chairs: Russ Housley <housley@vigilsec.com> and TBD person from volunteer NOC team
 
 Number of people expected to attend: 75
 
